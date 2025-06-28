@@ -29,8 +29,7 @@ Files
 
 Output/Results
 
-
-
-
+![AQI - 2](https://github.com/user-attachments/assets/db81e1ed-9d6a-48d8-b115-2e745adb5461)
+![AQI - 1](https://github.com/user-attachments/assets/08412d12-102d-4406-bd02-fa272ab9e820)
 
 
