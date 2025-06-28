@@ -15,17 +15,17 @@ Features
 
 Technologies Used
 
-• Python – A versatile programming language used for data analysis, machine learning, and automation.
-• Pandas – A powerful library for data manipulation and analysis using DataFrames.
-• NumPy – A library for efficient numerical computations and handling arrays.
-• Scikit-learn – A machine learning library that provides tools for model building, training, and evaluation.
-• Matplotlib – A plotting library used for creating static, animated, and interactive visualizations.
+• Python – A versatile programming language used for data analysis, machine learning, and automation.                                                                                                                
+• Pandas – A powerful library for data manipulation and analysis using DataFrames.                                                                                                                                   
+• NumPy – A library for efficient numerical computations and handling arrays.                                                                                                                                        
+• Scikit-learn – A machine learning library that provides tools for model building, training, and evaluation.                                                                                                        
+• Matplotlib – A plotting library used for creating static, animated, and interactive visualizations.                                    
 • Jupyter Notebook – An interactive coding environment ideal for data analysis, visualization, and sharing research.
 
 Files
 
-• AirQualityUCI.csv: Dataset used for training/testing the model.
-• Mini_Project.ipynb: Main notebook containing code, EDA, model training, and evaluation.
+• AirQualityUCI.csv: Dataset used for training/testing the model.                        
+• Mini_Project.ipynb: Main notebook containing code, EDA, model training, and evaluation.                                                                                        
 
 Output/Results
 
