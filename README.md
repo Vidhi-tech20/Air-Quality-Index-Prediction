@@ -3,12 +3,15 @@ Introduction
 
 Air pollution poses a serious threat to environmental and human health. The Air Quality Index (AQI) is a standardized indicator used to report daily air quality and communicate the level of health concern. This project aims to predict AQI levels using machine learning techniques based on various atmospheric pollutant concentrations such as CO, NO₂, O₃, and others. By analyzing real-world environmental data, this model helps in forecasting air quality, enabling better decision-making for public health and urban planning.
 
-Features
+Features 
 
-• Predicts AQI levels based on pollutant concentrations.
-• Uses real-world dataset from UCI Air Quality Dataset.
-• Built using Python and popular ML libraries.
-• Includes exploratory data analysis and visualization.
+• Pollutant-Based Prediction: Predicts AQI using pollutant levels such as CO, NO₂, O₃, and other air quality indicators.
+• Real-World Dataset: Utilizes the UCI Air Quality Dataset for training and testing.
+• Data Preprocessing: Handles missing values, outliers, and scales data for better model performance.
+• Model Training: Implements regression models like Linear Regression, Random Forest, or Decision Tree for prediction.
+• Performance Evaluation: Assesses models using metrics like R² score, RMSE, and MAE.
+• Data Visualization: Includes plots for data distribution, correlation, and predicted vs. actual AQI.
+• Jupyter Notebook Workflow: Clean, well-documented notebook for reproducibility and ease of understanding.
 
 Technologies Used
 
